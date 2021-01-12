@@ -1,0 +1,12 @@
+{
+    "name": "jonigarciap/icb06-uf4-pr01",
+    "description": "prueba de componente",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jonathan",
+            "email": "jonigarciap@hotmail.com"
+        }
+    ],
+    "require": {}
+}
