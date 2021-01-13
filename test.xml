@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<partida>
+  <personaje name="Luisito">
+    <raza>Humano</raza>
+    <clase>Paladin</clase>
+    <puntos_de_golpe>10</puntos_de_golpe>
+    <clase_de_armadura>15  </clase_de_armadura>
+  </personaje>
+  <personaje name="Jose">
+    <raza>Elfo</raza>
+    <clase>Mago</clase>
+    <puntos_de_golpe>7</puntos_de_golpe>
+    <clase_de_armadura>12  </clase_de_armadura>
+  </personaje>
+  <personaje name="Juan">
+    <raza>Enano</raza>
+    <clase>Luchador</clase>
+    <puntos_de_golpe>13</puntos_de_golpe>
+    <clase_de_armadura>16  </clase_de_armadura>
+  </personaje>
+</partida>
